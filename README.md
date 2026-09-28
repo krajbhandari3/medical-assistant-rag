@@ -67,7 +67,7 @@ Healthcare professionals face information overload and need accurate answers fas
 |---|---|
 | `Medical_Assistant_RAG.ipynb` | Full notebook: code, outputs and observations |
 | `Medical_Assistant_RAG.html` | Rendered notebook for quick viewing |
-| `Medical_Assistant_Presentation.pptx` | Summary presentation of findings |
+| `Medical_Assistant.pptx` | Summary presentation of findings |
 | `requirements.txt` | Python dependencies |
 
 > **Note:** The Merck Manual PDF and the API key file (`config.json`) are not included. To run the notebook, provide your own copy of the manual and an OpenAI API key.
